@@ -9,7 +9,7 @@ namespace BasicMatchCollector
 {
     public class MatchesDbContext : DbContext
     {
-        //public DbSet<Match> Matches { get; set; }
+        public DbSet<BasicMatchDetails> Matches { get; set; }
 
         public MatchesDbContext() : base("name = MatchesDbConnection") { }
     }
