@@ -15,6 +15,7 @@ namespace BasicMatchCollector
 
 
             Console.WriteLine("Finished.");
+            Console.ReadLine();
         }
     }
 }

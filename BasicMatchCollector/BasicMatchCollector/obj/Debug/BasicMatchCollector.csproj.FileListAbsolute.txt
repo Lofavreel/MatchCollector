@@ -1,0 +1,12 @@
+C:\Users\lofavreel\Source\Repos\MatchCollector\BasicMatchCollector\BasicMatchCollector\bin\Debug\BasicMatchCollector.exe.config
+C:\Users\lofavreel\Source\Repos\MatchCollector\BasicMatchCollector\BasicMatchCollector\bin\Debug\BasicMatchCollector.exe
+C:\Users\lofavreel\Source\Repos\MatchCollector\BasicMatchCollector\BasicMatchCollector\bin\Debug\BasicMatchCollector.pdb
+C:\Users\lofavreel\Source\Repos\MatchCollector\BasicMatchCollector\BasicMatchCollector\bin\Debug\EntityFramework.dll
+C:\Users\lofavreel\Source\Repos\MatchCollector\BasicMatchCollector\BasicMatchCollector\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lofavreel\Source\Repos\MatchCollector\BasicMatchCollector\BasicMatchCollector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lofavreel\Source\Repos\MatchCollector\BasicMatchCollector\BasicMatchCollector\bin\Debug\EntityFramework.xml
+C:\Users\lofavreel\Source\Repos\MatchCollector\BasicMatchCollector\BasicMatchCollector\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lofavreel\Source\Repos\MatchCollector\BasicMatchCollector\BasicMatchCollector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lofavreel\Source\Repos\MatchCollector\BasicMatchCollector\BasicMatchCollector\obj\Debug\BasicMatchCollector.csprojResolveAssemblyReference.cache
+C:\Users\lofavreel\Source\Repos\MatchCollector\BasicMatchCollector\BasicMatchCollector\obj\Debug\BasicMatchCollector.exe
+C:\Users\lofavreel\Source\Repos\MatchCollector\BasicMatchCollector\BasicMatchCollector\obj\Debug\BasicMatchCollector.pdb
