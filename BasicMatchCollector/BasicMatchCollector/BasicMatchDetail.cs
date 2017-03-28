@@ -10,21 +10,24 @@ namespace BasicMatchCollector
 {
     public class BasicMatchDetails
     {
-        [Key, DatabaseGenerated(DatabaseGeneratedOption.None)]
+        [Key, Column(Order = 1)]
+        public string Region { get; set; }
+        [Key, Column(Order = 2), DatabaseGenerated(DatabaseGeneratedOption.None)]
         public long MatchId { get; set; }
-        public string MatchVersion { get; set; }
+        public long? MatchVersion { get; set; }
+
         public bool Winner { get; set; } // true == blue won
         
         public int BlueTopChampId { get; set; }
         public int BlueJungleChampId { get; set; }
         public int BlueMiddleChampId { get; set; }
-        public int BlueCarryChampId { get; set; } = 0;
+        public int BlueCarryChampId { get; set; }
         public int BlueSupportChampId { get; set; }
 
         public int PurpleTopChampId { get; set; }
         public int PurpleJungleChampId { get; set; }
         public int PurpleMiddleChampId { get; set; }
-        public int PurpleCarryChampId { get; set; } = 0;
+        public int PurpleCarryChampId { get; set; }
         public int PurpleSupportChampId { get; set; }
         
     }
